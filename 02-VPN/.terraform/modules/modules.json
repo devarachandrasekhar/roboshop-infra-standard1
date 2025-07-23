@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpn_instance","Source":"registry.terraform.io/terraform-aws-modules/ec2-instance/aws","Version":"6.0.1","Dir":".terraform/modules/vpn_instance"},{"Key":"vpn_sg","Source":"../../terraform-aws-security_group","Dir":"../../terraform-aws-security_group"}]}
